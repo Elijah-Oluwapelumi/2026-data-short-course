@@ -147,7 +147,8 @@ portfolio to the table below. To do this you will need to **fork** this
 repository, make the changes, and submit a **pull request** so that your changes
 can be added to the course repo.
 
-| Name                        | Organization     | GitHub Username | GitHub Portfolio Link                                      |
-| --------------------------- | ---------------- | --------------- | ---------------------------------------------------------- |
-| Nate Quarderer (instructor) | ESIIL; Earth Lab | nquarder        | [https://nquarder.github.io/](https://nquarder.github.io/) |
-| Lilly Jones (instructor)    | ESIIL; Earth Lab | lijo8146        | [https://lijo8146.github.io/](https://lijo8146.github.io/) |
+| Name                          | Organization          | GitHub Username | GitHub Portfolio Link                                      |
+| ----------------------------- | --------------------- | --------------- | ---------------------------------------------------------- |
+| Nate Quarderer (instructor)   | ESIIL; Earth Lab      | nquarder        | [https://nquarder.github.io/](https://nquarder.github.io/) |
+| Lilly Jones (instructor)      | ESIIL; Earth Lab      | lijo8146        | [https://lijo8146.github.io/](https://lijo8146.github.io/) |
+| C. Jason Tinant (participant) | Oglala Lakota College | cjtinant        | [https://cjtinant.github.io/](https://cjtinant.github.io/) |
